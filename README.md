@@ -10,7 +10,13 @@ and discriminator are close, and we need deeper and more powerful networks with
 multiple Convolutional layers to generate more complex images in the real world.
 
 ## Group Member:
-Jiefu Zhou, Liangcao Ling, Saier Gong, Weichen Li
-jz3148, ll3337, sg3772, wl2726
-Department of Statistics
-Columbia University
++ Department of Statistics
+
++ Columbia University
+
+  + Jiefu Zhou(jz3148): did the GAN on MNIST and SVHN datasets
+  + Liangcao Ling(ll3337): did the GAN on MNIST and SVHN datasets
+  + Saier Gong(sg3772): did the WGAN on MNIST dataset
+  + Weichen Li(wl2726): did the WGAN on SVHN dataset
+
+
